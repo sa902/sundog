@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+!/usr/bin/env sh
 
 # abort on errors
 set -e
@@ -23,3 +23,9 @@ git commit -m 'deploy'
 git push -f git@github.com:sa902/sundog.git master:gh-pages
 
 cd -
+
+
+git init \
+git add . \
+git commit -m 'deploy' \
+git push -f git@github.com:sa902/sundog.git master:gh-pages

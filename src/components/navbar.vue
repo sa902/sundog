@@ -52,12 +52,13 @@ data: () => ({
 
 
   items: [
-   { title: 'Dashboard',link:'/'},
-   { title: 'Artist Pages', link:'/test'},
+   { title: 'Home',link:'/'},
+   { title: 'Zine', link:'/progress'},
    { title: 'Podcast', link:'/#'},
-   { title: 'Magazine', link:'/progress'},
+   { title: 'Artists', link:'/test'},
+   { title: 'Team', link:'/about'},
    { title: 'Contact', link:'/about'},
-   {title:'Login', link:'/login'}
+   // {title:'Login', link:'/login'}
 
  ],
 })

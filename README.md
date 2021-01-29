@@ -1,19 +1,11 @@
-# rapid-2
+# Sundog
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Todo
+1. Change colour to white
+1. Change content
+1. Remove side bar
+  1. or atleast move side bar so that it is only on certain pages
+1. add login thing to the top right
+1. make login lmfao

@@ -3,5 +3,5 @@ module.exports = {
     "vuetify"
   ]
 
-  // ,publicPath: '/rapid2/'
+  ,publicPath: '/sundog/'
 }
